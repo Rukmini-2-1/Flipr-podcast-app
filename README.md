@@ -18,8 +18,11 @@ Install dependencies:
 
 To install firebase dependency  open the link :(https://firebase.google.com).
 Login to google account with 
+
   email: harrypotteremma7@gmail.com 
+  
   password:H@rrypotter7
+  
  run the below command in the terminal.
 ### `npm install firebase`
 
