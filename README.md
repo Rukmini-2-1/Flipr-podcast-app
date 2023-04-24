@@ -24,7 +24,11 @@ Login to google account with
 ### `npm install firebase`
 
 1.The web application starts with Login page.
+
 2.After loging in ,you will be redirected to home page where you can navigate to video podcast , audio podcast pages.
+
 3.The home page consists of different audio and video podcasts.
+
 4.By Clicking on the image in the cards , you will be directed to the videos.
+
 5.By Clicking on the "play" button in the cards, you will be directed to the audio.
